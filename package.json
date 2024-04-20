@@ -4,6 +4,9 @@
 	"homepage": "https://Mykyta-Ushakow.github.io/trailer-booker",
 	"private": true,
 	"dependencies": {
+		"@emotion/react": "^11.11.4",
+		"@emotion/styled": "^11.11.5",
+		"@mui/material": "^5.15.15",
 		"@testing-library/jest-dom": "^5.17.0",
 		"@testing-library/react": "^13.4.0",
 		"@testing-library/user-event": "^13.5.0",
@@ -39,7 +42,7 @@
 		]
 	},
 	"devDependencies": {
-		"gh-pages": "^6.1.1",
-		"@babel/plugin-proposal-private-property-in-object": "^7.16.0"
+		"@babel/plugin-proposal-private-property-in-object": "^7.16.0",
+		"gh-pages": "^6.1.1"
 	}
 }
