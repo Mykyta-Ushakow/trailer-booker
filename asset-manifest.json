@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/trailer-booker/static/css/main.353b7d18.css",
-    "main.js": "/trailer-booker/static/js/main.690be756.js",
+    "main.js": "/trailer-booker/static/js/main.b4fc4528.js",
     "static/media/logo.svg": "/trailer-booker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/trailer-booker/index.html",
     "main.353b7d18.css.map": "/trailer-booker/static/css/main.353b7d18.css.map",
-    "main.690be756.js.map": "/trailer-booker/static/js/main.690be756.js.map"
+    "main.b4fc4528.js.map": "/trailer-booker/static/js/main.b4fc4528.js.map"
   },
   "entrypoints": [
     "static/css/main.353b7d18.css",
-    "static/js/main.690be756.js"
+    "static/js/main.b4fc4528.js"
   ]
 }
