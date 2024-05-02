@@ -2,13 +2,13 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
 import App from "./App.jsx";
-import { BrowserRouter } from "react-router-dom";
+import { HashRouter } from "react-router-dom";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
 	<React.StrictMode>
-		<BrowserRouter basename="/trailer-booker">
+		<HashRouter basename="/trailer-booker">
 			<App />
-		</BrowserRouter>
+		</HashRouter>
 	</React.StrictMode>
 );
