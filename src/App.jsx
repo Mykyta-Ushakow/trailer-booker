@@ -1,5 +1,5 @@
 import React from "react";
-import { HashRouter, Routes, Route } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import HomePage from "./pages/HomePage.jsx";
 import CataloguePage from "./pages/CataloguePage.jsx";
 import FavoritesPage from "./pages/FavoritesPage.jsx";
